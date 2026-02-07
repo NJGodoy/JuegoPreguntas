@@ -3,6 +3,11 @@
 ## Descripción
 Un juego interactivo de preguntas y respuestas donde cada jugador crea preguntas y luego todos responden preguntas hechas por otros jugadores (nunca sus propias preguntas).
 
+## Instalar Python
+
+[URL de instalación de python](https://www.python.org/downloads/)
+Descargar última versión disponible, aunque solo es necesario 3.6 o superior.
+
 ## Cómo Jugar
 
 ### Opción 1: Ejecutar con Python (requiere Python instalado)
